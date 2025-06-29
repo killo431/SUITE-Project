@@ -1,0 +1,5 @@
+{
+  "name": "ExampleAgent",
+  "role": "Code Generator",
+  "triggers": ["build_start"]
+}

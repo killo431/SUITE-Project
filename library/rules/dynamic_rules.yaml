@@ -1,0 +1,5 @@
+goals:
+  - name: SEO Site
+    rules:
+      - Add meta tags
+      - Optimize page speed
