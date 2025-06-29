@@ -1,1 +1,0 @@
-# Placeholder for project_notes.md
